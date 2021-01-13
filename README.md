@@ -2,4 +2,4 @@
 
 Practising Typescript with React Hooks
 
-Link: 
+Link: https://ricky-morty-picker.netlify.app
